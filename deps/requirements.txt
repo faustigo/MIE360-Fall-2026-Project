@@ -4,3 +4,8 @@ matplotlib
 seaborn
 simpy
 tqdm
+functools
+itertools
+time
+joblib
+typing
